@@ -1,5 +1,4 @@
 # ESP-BT-Controlled-Motor-Driver
-# ESP32 Bluetooth Motor Control
 
 A simple, well-documented README for controlling a DC motor using an ESP32 over Bluetooth (Classic SPP) — suitable as the main `README.md` for a Git repository.
 
