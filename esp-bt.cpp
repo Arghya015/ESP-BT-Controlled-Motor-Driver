@@ -1,7 +1,7 @@
 #include "BluetoothSerial.h"
 BluetoothSerial SerialBT;
 
-int IN1 = 25;
+int IN1 = 24;
 int IN2 = 26;
 int IN3 = 27;
 int IN4 = 14;
