@@ -12,8 +12,8 @@ void setup() {
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
   Serial.begin(115200);
-  SerialBT.begin("ESP Controlled Motor");
-  Serial.println("Bluetooth connected!!");
+  SerialBT.begin("************");
+  Serial.println("*************");
 }
 
 void loop() {
