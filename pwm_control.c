@@ -1,6 +1,6 @@
 const int potPin = A0;
 const int in1 = 8;
-const int in2 = 7;
+const int in2 = 4;
 const int ena = 9; // PWM pin (Uno: 3,5,6,9,10,11 are PWM)
 
 void setup(){
